@@ -1,4 +1,18 @@
-# Recursos para aprender datos relaciones con dplyr.
+
+## ¿Qué vas a aprender en este taller?
+
+* Tipos de claves: primaria, foránea y subrogada
+
+* ¿Qué es una relación?
+
+* Uniones de transformación
+
+* Uniones de filtrado
+
+* Operaciones con conjuntos
+
+
+## Más recursos sobre datos relaciones con dplyr.
 
 * [R para Ciencia de datos](http://r4ds.had.co.nz/) 
 
